@@ -37,6 +37,7 @@ for key,value in user_0.items():
 for key in user_0.keys(): 
     print(key.title())
 
+#嵌套
 alien_0 = {'color': 'green', 'points': 5} 
 alien_1 = {'color': 'yellow', 'points': 10} 
 alien_2 = {'color': 'red', 'points': 15}
